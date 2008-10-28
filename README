@@ -1,6 +1,6 @@
 scrnsaverproto
 ------------------------------------------
-Xorg XScrnSaver protocol headers
+X.Org XScrnSaver protocol headers
 
 Build requirements:
   cygwin-1.5.20-1
