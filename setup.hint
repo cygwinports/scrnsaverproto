@@ -1,3 +1,3 @@
 category: X11
-sdesc: "X.Org XScrnSaver protocol headers"
-ldesc: "X.Org XScrnSaver protocol headers"
+sdesc: "X.Org XScrnSaver extension headers"
+ldesc: "X.Org XScrnSaver extension headers"
